@@ -1,0 +1,10 @@
+##Installation of packages with conda:
+numpy-1.22.4
+scipy-1.8.1
+matplotlib-3.5.2
+pandas-1.4.2
+netcdf4-1.5.8
+pandas-1.4.2
+
+## Installation of packages with pip:
+tensorflow (see https://keras.io/)
